@@ -1,0 +1,312 @@
++++++++++++++++++++++++RANDOM ARRAY+++++++++++++++++++++++
+Length :0
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.0
+3. Interchange Sort : 0.0
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :1
+1. Insertion Sort : 0.008092164993286133
+2. Selection Sort : 0.0
+3. Interchange Sort : 0.0
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008295774459838867
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :2
+1. Insertion Sort : 0.008382558822631836
+2. Selection Sort : 0.01658320426940918
+3. Interchange Sort : 0.01646733283996582
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :3
+1. Insertion Sort : 0.058110713958740234
+2. Selection Sort : 0.058678388595581055
+3. Interchange Sort : 0.05092000961303711
+4. Heap Sort : 0.0
+5. Quick Sort : 0.008149147033691406
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.008177518844604492
+-----------------------------------
+Length :4
+1. Insertion Sort : 0.12430143356323242
+2. Selection Sort : 0.11755824089050293
+3. Interchange Sort : 0.12435555458068848
+4. Heap Sort : 0.008209705352783203
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008780479431152344
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :5
+1. Insertion Sort : 0.21368908882141113
+2. Selection Sort : 0.22407746315002441
+3. Interchange Sort : 0.2158217430114746
+4. Heap Sort : 0.008144378662109375
+5. Quick Sort : 0.008114337921142578
+6. Merge Sort : 0.0
+7. Counting Sort : 0.008226633071899414
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :6
+1. Insertion Sort : 0.3566575050354004
+2. Selection Sort : 0.34160375595092773
+3. Interchange Sort : 0.33855223655700684
+4. Heap Sort : 0.008239507675170898
+5. Quick Sort : 0.008204936981201172
+6. Merge Sort : 0.0
+7. Counting Sort : 0.008118629455566406
+8. Radix Sort : 0.0
+9. Flash Sort : 0.008101940155029297
+-----------------------------------
++++++++++++++++++++++++INCREASING ARRAY+++++++++++++++++++++++
+Length :0
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.0
+3. Interchange Sort : 0.0
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :1
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.003715991973876953
+3. Interchange Sort : 0.0
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.008821487426757812
+-----------------------------------
+Length :2
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.008090496063232422
+3. Interchange Sort : 0.01653885841369629
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008070945739746094
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :3
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.058385372161865234
+3. Interchange Sort : 0.05244803428649902
+4. Heap Sort : 0.009383916854858398
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.007319211959838867
+9. Flash Sort : 0.0
+-----------------------------------
+Length :4
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.12545371055603027
+3. Interchange Sort : 0.12157607078552246
+4. Heap Sort : 0.008757829666137695
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.008985757827758789
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :5
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.23574256896972656
+3. Interchange Sort : 0.2173759937286377
+4. Heap Sort : 0.008166074752807617
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008573532104492188
+7. Counting Sort : 0.0
+8. Radix Sort : 0.008390188217163086
+9. Flash Sort : 0.0
+-----------------------------------
+Length :6
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.3393559455871582
+3. Interchange Sort : 0.3420581817626953
+4. Heap Sort : 0.016573667526245117
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008155345916748047
+7. Counting Sort : 0.0
+8. Radix Sort : 0.008821249008178711
+9. Flash Sort : 0.0
+-----------------------------------
++++++++++++++++++++++++DECREASING ARRAY+++++++++++++++++++++++
+Length :0
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.0
+3. Interchange Sort : 0.0
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :1
+1. Insertion Sort : 0.008167028427124023
+2. Selection Sort : 0.0
+3. Interchange Sort : 0.008049249649047852
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :2
+1. Insertion Sort : 0.025211811065673828
+2. Selection Sort : 0.016498088836669922
+3. Interchange Sort : 0.016231775283813477
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :3
+1. Insertion Sort : 0.09985804557800293
+2. Selection Sort : 0.0584111213684082
+3. Interchange Sort : 0.05832624435424805
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008495569229125977
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :4
+1. Insertion Sort : 0.24544811248779297
+2. Selection Sort : 0.1277599334716797
+3. Interchange Sort : 0.13114285469055176
+4. Heap Sort : 0.008367538452148438
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008454561233520508
+7. Counting Sort : 0.0
+8. Radix Sort : 0.008234500885009766
+9. Flash Sort : 0.0
+-----------------------------------
+Length :5
+1. Insertion Sort : 0.45639729499816895
+2. Selection Sort : 0.22240567207336426
+3. Interchange Sort : 0.2254791259765625
+4. Heap Sort : 0.01515960693359375
+5. Quick Sort : 0.002009153366088867
+6. Merge Sort : 0.00401759147644043
+7. Counting Sort : 0.004006385803222656
+8. Radix Sort : 0.004004001617431641
+9. Flash Sort : 0.0020017623901367188
+-----------------------------------
+Length :6
+1. Insertion Sort : 0.682302713394165
+2. Selection Sort : 0.36127281188964844
+3. Interchange Sort : 0.3624155521392822
+4. Heap Sort : 0.01648998260498047
+5. Quick Sort : 0.0
+6. Merge Sort : 0.008108854293823242
+7. Counting Sort : 0.0
+8. Radix Sort : 0.008020639419555664
+9. Flash Sort : 0.0
+-----------------------------------
++++++++++++++++++++++++NEARLY SORTED ARRAY+++++++++++++++++++++++
+Length :0
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.0
+3. Interchange Sort : 0.0
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :1
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.010255575180053711
+3. Interchange Sort : 0.004004240036010742
+4. Heap Sort : 0.0
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0020012855529785156
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0020020008087158203
+9. Flash Sort : 0.0
+-----------------------------------
+Length :2
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.013519525527954102
+3. Interchange Sort : 0.008007287979125977
+4. Heap Sort : 0.008476734161376953
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :3
+1. Insertion Sort : 0.0
+2. Selection Sort : 0.05801224708557129
+3. Interchange Sort : 0.04999375343322754
+4. Heap Sort : 0.008060455322265625
+5. Quick Sort : 0.0
+6. Merge Sort : 0.0
+7. Counting Sort : 0.008466482162475586
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :4
+1. Insertion Sort : 0.008460044860839844
+2. Selection Sort : 0.1231527328491211
+3. Interchange Sort : 0.12520074844360352
+4. Heap Sort : 0.006002664566040039
+5. Quick Sort : 0.0020275115966796875
+6. Merge Sort : 0.0
+7. Counting Sort : 0.0
+8. Radix Sort : 0.008324861526489258
+9. Flash Sort : 0.0
+-----------------------------------
+Length :5
+1. Insertion Sort : 0.008366584777832031
+2. Selection Sort : 0.22857189178466797
+3. Interchange Sort : 0.23512768745422363
+4. Heap Sort : 0.014600276947021484
+5. Quick Sort : 0.0017426013946533203
+6. Merge Sort : 0.0015072822570800781
+7. Counting Sort : 0.006929874420166016
+8. Radix Sort : 0.0
+9. Flash Sort : 0.0
+-----------------------------------
+Length :6
+1. Insertion Sort : 0.008362054824829102
+2. Selection Sort : 0.3669261932373047
+3. Interchange Sort : 0.3613293170928955
+4. Heap Sort : 0.01610732078552246
+5. Quick Sort : 0.0
+6. Merge Sort : 0.012481927871704102
+7. Counting Sort : 0.0020017623901367188
+8. Radix Sort : 0.0060062408447265625
+9. Flash Sort : 0.0020020008087158203
+-----------------------------------
